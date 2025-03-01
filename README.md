@@ -1,9 +1,10 @@
 # Omni-Scene Infrared Vehicle Detection: An Efficient Selective Aggregation Approach and a Unified Benchmark
 
+This is an early version of the project, and we are currently organizing the code and dataset, as well as writing the README files. We appreciate your interest and will update the repository soon ...
+
 ## OSIV Dataset Download
 - **Baidu Netdisk**: [https://pan.baidu.com/s/1KTWod1PY49X3taSiyQUc1g?pwd=sf2k](https://pan.baidu.com/s/1KTWod1PY49X3taSiyQUc1g?pwd=sf2k)
 
-The code will be released soon...
 
 ---
 
